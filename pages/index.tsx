@@ -31,7 +31,7 @@ const Home: NextPage = () => {
     <AppContainer>
       <Head>
         <title>Happy Birthday 23th!</title>
-        <meta name="description" content="Waw hebat sekali kamu! Sekarang kunjungi /terakhir" />
+        <meta name="description" content="Waw hebat sekali kamu! Sekarang kunjungi /12071999" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
